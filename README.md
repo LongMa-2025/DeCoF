@@ -13,6 +13,8 @@
 
 **[2024/7.1]** Thanks to [Kling](https://kling.kuaishou.com/). We have extended the DecoF dataset based on the video generation model **Kling**, and the test dataset for Kling will be made public soon.
 
+**[2026/2/28]**  Regarding pretrained weights: due to **server migration**, the original pretrained weights are unfortunately no longer available. However, we have released **new pretrained models trained on our updated dataset**. Please refer to our [repository](https://github.com/LongMa-2025/AIGVDBench) for details.
+
 
 ## Abstract
 > The increasing realism of AI-generated videos has raised potential security concerns, making it difficult for humans to distinguish them from the naked eye. Despite these concerns, limited research has been dedicated to detecting such videos effectively.
